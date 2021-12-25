@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+HELP="Executes the example script"
+
+make build
+./main.out examples/recipe.txt
